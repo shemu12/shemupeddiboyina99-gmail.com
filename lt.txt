@@ -1,0 +1,2 @@
+C:\>aws glacier initiate-job --account-id -361302174311 --vault-name my_shemu_named_vault --job-parameters '{"Type": "inventory-retrieval"}'
+
